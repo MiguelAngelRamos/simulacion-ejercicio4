@@ -9,3 +9,4 @@ El sistema debe permitir al jugador crear un identificador único que contenga l
 ### Objetivos:
 - Implementar una solución que utilice ciclos anidados y condiciones de salida.
 - Garantizar que los identificadores de usuario cumplan con los criterios de seguridad especificados.
+- 
